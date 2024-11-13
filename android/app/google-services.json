@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388405011819",
+    "project_id": "project-shadow-46f77",
+    "storage_bucket": "project-shadow-46f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388405011819:android:bcc21e6f57afb9ac0e182e",
+        "android_client_info": {
+          "package_name": "com.projectshadow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSszBuz7XzDgt1FfBQ4oIESi3Y1JxNPVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
